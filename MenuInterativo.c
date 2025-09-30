@@ -91,7 +91,8 @@ int main()
         else
         {
             printf("Comparação de carta(Atributo: Área)\n");
-            printf("Carta 1 - %s: %d \nCarta 2 - %s: %d \nResultado: Empate!");
+            printf("Carta 1 - %s: %d \nCarta 2 - %s: %d \nResultado: Empate!"
+                   nomedopais1, populacao1, nomedopais2, populacao2, nomedopais2);
         }
 
         break;
@@ -164,3 +165,4 @@ int main()
 
     return 0;
 }
+
